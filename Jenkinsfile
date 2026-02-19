@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         SERVER = "ubuntu@3.110.123.184"
-        APP_PATH = "/var/www/node-app"
+        APP_PATH = "/var/www/node-application"
     }
 
     stages {
