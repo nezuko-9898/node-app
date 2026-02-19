@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        SERVER = "ubuntu@3.110.123.184"
+        SERVER = "ubuntu@13.233.192.181"
         APP_PATH = "/var/www/node-application"
     }
 
