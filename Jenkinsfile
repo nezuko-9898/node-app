@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        SERVER = "ubuntu@52.66.189.89"
+        SERVER = "ubuntu@13.201.101.226"
     }
 
     options {
